@@ -1,0 +1,16 @@
+PODS:
+  - ZMCategorieKit (0.1.0)
+
+DEPENDENCIES:
+  - ZMCategorieKit (from `../`)
+
+EXTERNAL SOURCES:
+  ZMCategorieKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ZMCategorieKit: 03be652918fb7cd0365c8290a356c17911fe9c0b
+
+PODFILE CHECKSUM: c55b24a8ce04994b40dea83b3bf6d268146344cd
+
+COCOAPODS: 1.10.0
